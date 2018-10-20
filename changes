@@ -1,0 +1,4 @@
+encrypter.vhdl, decrypter.vhdl (newV1() & newV0())
+top_level.vhdl (ready state).
+main.c (Reading function to wait for some time, keys for encryption and decryption).
+timer_next<=timer+1;
